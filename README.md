@@ -18,15 +18,15 @@ In this project, I fine-tuned a pre-trained Transformer model using Hugging Face
 
 <p align="center">
 Dataset Loading, Tokenization, and Model Selection <br />
-<img src="https://i.postimg.cc/5ykz6Fnb/1.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/5ykz6Fnb/1.jpg"/>
 <br />
 <br />
 Model Fine-Tuning and Evaluation <br/>
-<img src="https://i.postimg.cc/JzKsnXng/2.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/JzKsnXng/2.jpg"/>
 <br />
 <br />
 Model Deployment <br/>
-<img src="https://i.postimg.cc/XqNhntDt/5.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/XqNhntDt/5.jpg" />
 <br />
 
 
